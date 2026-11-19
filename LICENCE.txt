@@ -1,0 +1,39 @@
+SC Companion — Licence d'utilisation
+Copyright (c) 2026 Viperhill. Tous droits réservés.
+
+1. Utilisation
+   SC Companion est gratuit pour un usage personnel. Tu peux l'installer et l'utiliser sur tes ordinateurs.
+
+2. Partage
+   Tu peux partager l'archive officielle telle quelle, sans aucune modification, en indiquant qu'elle vient
+   de Viperhill. La source officielle est la page GitHub de Viperhill.
+
+3. Interdit sans le consentement écrit de Viperhill
+   - modifier l'application ou ses fichiers (SCCompanion.exe, bibliothèques fournies) ;
+   - décompiler, désassembler ou extraire le code de l'application ;
+   - redistribuer une version modifiée, ou l'intégrer en partie dans un autre logiciel ;
+   - vendre l'application ou en faire payer l'accès.
+
+4. Données
+   Les données de jeu sont lues dans ton installation de Star Citizen. Les prix viennent de la communauté UEX
+   (uexcorp.space), les bonus de raffinerie de scmdb.net, la position des bandes de l'Aaron Halo de CaptSheppard.
+   Les données que tu saisis (inventaire, file de craft, réglages) restent dans le dossier data, sur ton PC.
+
+5. Aucune garantie
+   L'application est fournie « telle quelle », sans garantie d'aucune sorte. Viperhill n'est pas responsable
+   des pertes en jeu ou autres dommages liés à son utilisation.
+
+6. Marques
+   Star Citizen est une marque de Cloud Imperium Rights LLC. SC Companion est un outil de fan non officiel,
+   sans lien avec Cloud Imperium Games ni Roberts Space Industries.
+
+Les composants de tiers inclus (LÖVE, LuaJIT, SDL, OpenAL Soft, zstd, polices) gardent leurs propres licences :
+voir LICENCES-TIERS.txt.
+
+----------------------------------------------------------------------------------------------------------
+SC Companion — End-user licence (English summary)
+Copyright (c) 2026 Viperhill. All rights reserved.
+Free for personal use. You may share the official, unmodified archive. Without Viperhill's written consent you
+may not modify, decompile, extract, redistribute a modified version of, or sell the application. Provided
+"as is", without warranty. Unofficial fan tool, not affiliated with Cloud Imperium Games. Third-party
+components keep their own licences (see LICENCES-TIERS.txt).
