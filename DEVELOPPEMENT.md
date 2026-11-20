@@ -1,6 +1,6 @@
 # SC Companion — rapport de développement
 
-> **Codé et entretenu par Viperhill** · version **0.55** · Windows · français / English
+> **Codé et entretenu par Viperhill** · version **0.56** · Windows · français / English
 > Soutenir le projet : https://buymeacoffee.com/viperhill
 
 **English summary** — SC Companion is a free Windows companion app for Star Citizen, focused on crafting. It reads the game's own files (Data.p4k) to know every blueprint, material, mining location and ship component, then tells you what you are missing, where to mine it, where to buy what can't be crafted, and how to fit your ships (erkul-style configurator with interactive power management). The interface is available in French and English. This document describes the features, data sources, calculation rules, architecture and version history.
@@ -22,6 +22,7 @@ Principes du projet :
 ### Crafting
 - Navigation par tuiles (ex. Vaisseau › Boucliers › Militaire › Grade A) ou recherche par nom, en anglais ou en français.
 - Fiche de chaque plan : matériaux, quantités, qualité minimale, stock dans l'inventaire, statut (prêt / partiel / manque).
+- Légende sous la liste : colonne BP (✓ possédé, **M** obtenable par mission, · aucune source connue) et colonne Stock (prêt, partiel, manque).
 - **Simulateur de qualité** : un curseur par matériau, préréglages MIN / 500 / 750 / 900 / MAX, saisie au clavier, effet calculé sur l'objet (dégâts, PV, vitesse quantique, consommation…). Les qualités choisies partent avec le plan dans la file.
 - **Obtenir le plan** : missions qui donnent ce plan, avec la chance, le rang demandé et le nombre de plans tirés.
 - « J'ai ce plan » : suivi des plans possédés, à la main ou automatiquement (voir *Synchroniser mes plans*).
@@ -42,6 +43,7 @@ Principes du projet :
 
 ### Inventaire
 - Saisie à la main ou **par captures d'écran** du gestionnaire de fret et de la raffinerie (OCR intégré à Windows, sans logiciel externe).
+- Deux vues pleine hauteur : « Mon inventaire » et « Mes raffinages ». Les commandes prêtes sont signalées en vert, et l'app ouvre « Mes raffinages » dès qu'une capture de raffinerie est lue.
 
 ### Vaisseaux (configurateur)
 - 253 vaisseaux et véhicules, 3 386 composants, lus dans les fichiers du jeu.
@@ -58,7 +60,7 @@ Principes du projet :
 - Raffineries : bonus de rendement par station et par minerai.
 
 ### Autres
-- **Synchroniser mes plans** : lecture du `Game.log` (et des sauvegardes de logs) pour cocher les plans reçus, en direct pendant que tu joues si tu veux.
+- **Synchroniser mes plans** : lecture du `Game.log` (et des sauvegardes de logs) pour cocher les plans reçus, en direct pendant que tu joues si tu veux. Fonctionne aussi avec le jeu en français (noms traduits ramenés au nom anglais du plan). Un bouton « Copier le diagnostic » résume ce que l'app a lu, pour le support.
 - **Synchro ☁** entre ordinateurs via un dossier partagé (OneDrive…) : inventaire, file, plans, hangar.
 - Interface en **français ou en anglais** ; noms du jeu en anglais ou en français officiel ; titres de mission enrichis si le mod StarStrings est installé.
 - Guide d'utilisation intégré (bouton ? ou F1).
@@ -158,6 +160,7 @@ lang/en.lua             traduction anglaise
 | 0.52 – 0.53 | Onglet Panier séparé de la file, menus déroulants des boutiques. |
 | 0.54 | Icône de l'app (exe, fenêtre et barre des tâches). |
 | 0.55 | Version publique verrouillée, licence, lecture des données renforcée. |
+| 0.56 | Import des plans avec le jeu en français, messages plus clairs et diagnostic à copier ; légende BP / Stock dans le Crafting ; vue « Mes raffinages » séparée dans l'Inventaire. |
 
 ## 9. Feuille de route
 
