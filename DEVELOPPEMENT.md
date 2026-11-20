@@ -129,7 +129,7 @@ lang/en.lua             traduction anglaise
 
 - Le code est compilé en bytecode LuaJIT (sans informations de débogage) et intégré à `SCCompanion.exe`. Il n'y a pas de dossier de code à côté de l'exe.
 - La version publique ne charge jamais de code externe (dossier `app` posé à côté, dossier utilisateur %APPDATA%).
-- Fichiers livrés : `SCCompanion.exe`, les DLL nécessaires (LÖVE, LuaJIT, SDL, OpenAL, zstd), `LICENCE.txt`, `LICENCES-TIERS.txt`, `LISEZMOI.txt`. Le dossier `data` est créé au premier lancement et contient les données de l'utilisateur.
+- Fichiers livrés : `SCCompanion.exe`, les DLL nécessaires (LÖVE, LuaJIT, SDL, OpenAL, zstd), `README.txt` (anglais puis français), `LICENCE.txt`, `LICENCES-TIERS.txt`. Le dossier `data` est créé au premier lancement et contient les données de l'utilisateur.
 - **Licence** : tous droits réservés (Viperhill). Usage personnel gratuit ; le partage de l'archive officielle non modifiée est permis ; modification, décompilation et redistribution modifiée interdites sans accord écrit. Les composants libres gardent leurs licences.
 
 ## 7. Limites connues

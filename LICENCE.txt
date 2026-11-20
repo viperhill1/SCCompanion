@@ -1,3 +1,37 @@
+SC Companion — End-user licence
+Copyright (c) 2026 Viperhill. All rights reserved.
+(Version française plus bas)
+
+1. Use
+   SC Companion is free for personal use. You may install it and use it on your computers.
+
+2. Sharing
+   You may share the official archive as is, without any modification, stating that it comes from Viperhill.
+   The official source is Viperhill's GitHub page.
+
+3. Not allowed without Viperhill's written consent
+   - modifying the application or its files (SCCompanion.exe, included libraries);
+   - decompiling, disassembling or extracting the application's code;
+   - redistributing a modified version, or including part of it in other software;
+   - selling the application or charging for access to it.
+
+4. Data
+   Game data is read from your Star Citizen installation. Prices come from the UEX community
+   (uexcorp.space), refinery bonuses from scmdb.net, the position of the Aaron Halo bands from CaptSheppard.
+   The data you enter (inventory, craft queue, settings) stays in the data folder, on your PC.
+
+5. No warranty
+   The application is provided "as is", without warranty of any kind. Viperhill is not responsible
+   for in-game losses or other damage related to its use.
+
+6. Trademarks
+   Star Citizen is a trademark of Cloud Imperium Rights LLC. SC Companion is an unofficial fan tool,
+   not affiliated with Cloud Imperium Games or Roberts Space Industries.
+
+The included third-party components (LÖVE, LuaJIT, SDL, OpenAL Soft, zstd, fonts) keep their own licences:
+see LICENCES-TIERS.txt.
+
+----------------------------------------------------------------------------------------------------------
 SC Companion — Licence d'utilisation
 Copyright (c) 2026 Viperhill. Tous droits réservés.
 
@@ -29,11 +63,3 @@ Copyright (c) 2026 Viperhill. Tous droits réservés.
 
 Les composants de tiers inclus (LÖVE, LuaJIT, SDL, OpenAL Soft, zstd, polices) gardent leurs propres licences :
 voir LICENCES-TIERS.txt.
-
-----------------------------------------------------------------------------------------------------------
-SC Companion — End-user licence (English summary)
-Copyright (c) 2026 Viperhill. All rights reserved.
-Free for personal use. You may share the official, unmodified archive. Without Viperhill's written consent you
-may not modify, decompile, extract, redistribute a modified version of, or sell the application. Provided
-"as is", without warranty. Unofficial fan tool, not affiliated with Cloud Imperium Games. Third-party
-components keep their own licences (see LICENCES-TIERS.txt).
