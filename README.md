@@ -19,6 +19,7 @@ Coded and maintained by **Viperhill**.
 - **Ships**: a configurator (components, crafting qualities, pip-based power management, sustained DPS, shields, signatures, quantum range). Send your setup to crafting in one click.
 - **Cart**: what can't be crafted, and where to buy it (UEX community prices, route, total).
 - **Inventory and refining**: by hand or from screenshots of the freight manager and the refinery. Your owned blueprints are ticked automatically by reading `Game.log`.
+- **Live signature scanner**: the app reads the number shown by the mining scanner and tells you which rock it is ("7 080 → 2 × Beryl"), in the app or in an overlay on top of the game. Rocks with an ore you need are marked ★. Game in Borderless mode.
 
 The data is read **straight from your installed game files**: the app is up to date with every patch, and it never modifies the game.
 
@@ -69,6 +70,7 @@ Credits: [UEX](https://uexcorp.space) community prices, refinery bonuses from sc
 - **Vaisseaux** : un configurateur (composants, qualités de fabrication, gestion d'énergie par pastilles, DPS soutenu, bouclier, signatures, portée quantique). Envoie ton setup au crafting en un clic.
 - **Panier** : ce qui ne se fabrique pas, et où l'acheter (prix de la communauté UEX, itinéraire, total).
 - **Inventaire et raffinage** : à la main ou par captures d'écran du gestionnaire de fret et de la raffinerie. Tes plans possédés sont cochés tout seuls en lisant le `Game.log`.
+- **Scanner de signatures en direct** : l'app lit le nombre affiché par le scanner de minage et te dit quelle roche c'est (« 7 080 → 2 × Beryl »), dans l'app ou dans un overlay au-dessus du jeu. Les roches qui contiennent un minerai dont tu as besoin sont marquées ★. Jeu en mode Borderless.
 
 Les données sont lues **directement dans les fichiers du jeu installé** : l'app est à jour à chaque patch, et elle ne modifie jamais le jeu.
 

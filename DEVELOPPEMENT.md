@@ -1,6 +1,6 @@
 # SC Companion — rapport de développement
 
-> **Codé et entretenu par Viperhill** · version **0.56** · Windows · français / English
+> **Codé et entretenu par Viperhill** · version **0.57** · Windows · français / English
 > Soutenir le projet : https://buymeacoffee.com/viperhill
 
 **English summary** — SC Companion is a free Windows companion app for Star Citizen, focused on crafting. It reads the game's own files (Data.p4k) to know every blueprint, material, mining location and ship component, then tells you what you are missing, where to mine it, where to buy what can't be crafted, and how to fit your ships (erkul-style configurator with interactive power management). The interface is available in French and English. This document describes the features, data sources, calculation rules, architecture and version history.
@@ -53,6 +53,13 @@ Principes du projet :
 - **Gestion de l'énergie interactive** (comme erkul.games) : une colonne de pastilles par composant, boucliers en une seule colonne, minimum d'allumage en bloc indivisible, modes SCM / NAV, répartition automatique. Effets en direct sur le DPS soutenu, la régénération du bouclier, le refroidissement, la recharge du boost et les signatures EM / IR.
 - Identiques regroupés (« 4 × CF-557 »), à détailler au besoin.
 - **Mon hangar** : configurations enregistrées, synchronisées entre PC, envoi au crafting en un clic.
+
+### Scanner de signatures (en direct)
+- Lit en continu, avec l'OCR intégré à Windows, la zone de l'écran où le scanner de minage affiche la signature (au-dessus du réticule). La fenêtre de Star Citizen est trouvée toute seule, même sur un deuxième écran.
+- Décode le nombre en « N × type de roche » avec les signatures du jeu, pour le lieu choisi ou pour tous les arrêts de la route de minage ; les plus probables d'abord, multiples de 2 000 = salvage.
+- Les roches qui contiennent un minerai de la route (ce qui manque à la file de craft) sont marquées ★ à miner.
+- Résultat dans l'app et, en option, dans un overlay au-dessus du jeu : sans bordure, ne prend pas le focus, laisse passer les clics, placé à côté du nombre ou sous la zone.
+- Lecture adaptée au HUD (canal rouge : chiffres presque blancs sur fond cyan ou bleu, lisible sur fond sombre comme sur fond très clair). Jeu en mode Borderless. Seuls les pixels de l'écran sont lus : rien n'est envoyé au jeu, sa mémoire n'est pas lue.
 
 ### Minerais, Lieux, Raffineries
 - Fiche de chaque minerai : propriétés de minage, lieux, **chance réelle** de le trouver, roches qui le contiennent (minerai principal ou secondaire, avec la teneur).
@@ -119,6 +126,7 @@ src/power.lua           gestion de l'énergie (pastilles, générateurs, refroid
 src/route.lua           calcul de la route de minage
 src/uex.lua             prix des boutiques (UEX)
 src/ocr.lua             import par captures d'écran
+src/scanlive.lua        scanner de signatures en direct (+ tools/scan_live.ps1 : capture, OCR et overlay)
 src/gamelog.lua         lecture du Game.log (plans reçus)
 src/cloudsync.lua       synchronisation entre ordinateurs
 src/publish.lua         préparation de la version publique (développement seulement)
@@ -161,6 +169,7 @@ lang/en.lua             traduction anglaise
 | 0.54 | Icône de l'app (exe, fenêtre et barre des tâches). |
 | 0.55 | Version publique verrouillée, licence, lecture des données renforcée. |
 | 0.56 | Import des plans avec le jeu en français, messages plus clairs et diagnostic à copier ; légende BP / Stock dans le Crafting ; vue « Mes raffinages » séparée dans l'Inventaire. |
+| 0.57 | Scanner de signatures en direct avec overlay au-dessus du jeu, lieux pris dans la route de minage, ★ minerais à miner. |
 
 ## 9. Feuille de route
 
