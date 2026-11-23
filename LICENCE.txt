@@ -17,7 +17,7 @@ Copyright (c) 2026 Viperhill. All rights reserved.
 
 4. Data
    Game data is read from your Star Citizen installation. Prices come from the UEX community
-   (uexcorp.space), refinery bonuses from scmdb.net, the position of the Aaron Halo bands from CaptSheppard.
+   (uexcorp.space), the position of the Aaron Halo bands from CaptSheppard.
    The data you enter (inventory, craft queue, settings) stays in the data folder, on your PC.
 
 5. No warranty
@@ -50,7 +50,7 @@ Copyright (c) 2026 Viperhill. Tous droits réservés.
 
 4. Données
    Les données de jeu sont lues dans ton installation de Star Citizen. Les prix viennent de la communauté UEX
-   (uexcorp.space), les bonus de raffinerie de scmdb.net, la position des bandes de l'Aaron Halo de CaptSheppard.
+   (uexcorp.space), la position des bandes de l'Aaron Halo de CaptSheppard.
    Les données que tu saisis (inventaire, file de craft, réglages) restent dans le dossier data, sur ton PC.
 
 5. Aucune garantie
