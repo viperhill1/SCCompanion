@@ -52,6 +52,10 @@ The full guide is inside the app: **?** button or **F1**. The app starts in Engl
 - [Licence](LICENCE.txt): free for personal use, all rights reserved.
 - Support the project: ☕ https://buymeacoffee.com/viperhill
 
+### 🎯 Funding goal
+
+**Goal 1 — Sign the app (US$10 / month).** A code signing certificate removes the "Windows protected your PC" warning when you download and run SC Companion. Every coffee goes straight to it. Thank you!
+
 Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by CaptSheppard.
 
 ---
@@ -102,6 +106,8 @@ L'app démarre en anglais : passe-la en français avec le bouton **⚙**. Le gui
 - [Présentation](DEVELOPPEMENT.md) ([English](DEVELOPMENT.md)) : fonctionnalités, configuration requise, historique des versions.
 - [Licence](LICENCE.txt) : gratuit pour un usage personnel, tous droits réservés.
 - Soutenir le projet : ☕ https://buymeacoffee.com/viperhill
+
+**🎯 Objectif 1 — Signer l'app (10 $ US / mois).** Un certificat de signature de code enlève l'avertissement « Windows a protégé votre ordinateur » quand tu télécharges et lances SC Companion. Chaque café va directement là. Merci !
 
 ---
 
