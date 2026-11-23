@@ -1,0 +1,65 @@
+SC Companion — End-user licence
+Copyright (c) 2026 Viperhill. All rights reserved.
+(Version française plus bas)
+
+1. Use
+   SC Companion is free for personal use. You may install it and use it on your computers.
+
+2. Sharing
+   You may share the official archive as is, without any modification, stating that it comes from Viperhill.
+   The official source is Viperhill's GitHub page.
+
+3. Not allowed without Viperhill's written consent
+   - modifying the application or its files (SCCompanion.exe, included libraries);
+   - decompiling, disassembling or extracting the application's code;
+   - redistributing a modified version, or including part of it in other software;
+   - selling the application or charging for access to it.
+
+4. Data
+   Game data is read from your Star Citizen installation. Prices come from the UEX community
+   (uexcorp.space), refinery bonuses from scmdb.net, the position of the Aaron Halo bands from CaptSheppard.
+   The data you enter (inventory, craft queue, settings) stays in the data folder, on your PC.
+
+5. No warranty
+   The application is provided "as is", without warranty of any kind. Viperhill is not responsible
+   for in-game losses or other damage related to its use.
+
+6. Trademarks
+   Star Citizen is a trademark of Cloud Imperium Rights LLC. SC Companion is an unofficial fan tool,
+   not affiliated with Cloud Imperium Games or Roberts Space Industries.
+
+The included third-party components (LÖVE, LuaJIT, SDL, OpenAL Soft, zstd, fonts) keep their own licences:
+see LICENCES-TIERS.txt.
+
+----------------------------------------------------------------------------------------------------------
+SC Companion — Licence d'utilisation
+Copyright (c) 2026 Viperhill. Tous droits réservés.
+
+1. Utilisation
+   SC Companion est gratuit pour un usage personnel. Tu peux l'installer et l'utiliser sur tes ordinateurs.
+
+2. Partage
+   Tu peux partager l'archive officielle telle quelle, sans aucune modification, en indiquant qu'elle vient
+   de Viperhill. La source officielle est la page GitHub de Viperhill.
+
+3. Interdit sans le consentement écrit de Viperhill
+   - modifier l'application ou ses fichiers (SCCompanion.exe, bibliothèques fournies) ;
+   - décompiler, désassembler ou extraire le code de l'application ;
+   - redistribuer une version modifiée, ou l'intégrer en partie dans un autre logiciel ;
+   - vendre l'application ou en faire payer l'accès.
+
+4. Données
+   Les données de jeu sont lues dans ton installation de Star Citizen. Les prix viennent de la communauté UEX
+   (uexcorp.space), les bonus de raffinerie de scmdb.net, la position des bandes de l'Aaron Halo de CaptSheppard.
+   Les données que tu saisis (inventaire, file de craft, réglages) restent dans le dossier data, sur ton PC.
+
+5. Aucune garantie
+   L'application est fournie « telle quelle », sans garantie d'aucune sorte. Viperhill n'est pas responsable
+   des pertes en jeu ou autres dommages liés à son utilisation.
+
+6. Marques
+   Star Citizen est une marque de Cloud Imperium Rights LLC. SC Companion est un outil de fan non officiel,
+   sans lien avec Cloud Imperium Games ni Roberts Space Industries.
+
+Les composants de tiers inclus (LÖVE, LuaJIT, SDL, OpenAL Soft, zstd, polices) gardent leurs propres licences :
+voir LICENCES-TIERS.txt.
