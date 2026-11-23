@@ -66,7 +66,7 @@ SC Companion helps you **craft in Star Citizen**. Everything starts from a simpl
 
 - Code and maintenance: **Viperhill**.
 - Game data: Star Citizen (Cloud Imperium Games), read from your installation.
-- Prices: **UEX** community (uexcorp.space). Aaron Halo bands: **CaptSheppard**. Mission titles: **MrKraken**'s **StarStrings** mod. Power management reference: **erkul.games**.
+- Prices: **UEX** community (uexcorp.space). Aaron Halo bands: **CaptSheppard**.
 - Open-source components: see `LICENCES-TIERS.txt` in the download.
 
 Star Citizen is a trademark of Cloud Imperium Rights LLC. SC Companion is an unofficial fan tool, not affiliated with Cloud Imperium Games or Roberts Space Industries. All rights reserved — see [LICENCE.txt](LICENCE.txt).

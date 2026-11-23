@@ -66,7 +66,7 @@ SC Companion t'aide à **fabriquer (crafting) dans Star Citizen**. Tout part d'u
 
 - Code et entretien : **Viperhill**.
 - Données de jeu : Star Citizen (Cloud Imperium Games), lues dans ton installation.
-- Prix : communauté **UEX** (uexcorp.space). Bandes de l'Aaron Halo : **CaptSheppard**. Titres de mission : mod **StarStrings** de **MrKraken**. Référence pour la gestion de l'énergie : **erkul.games**.
+- Prix : communauté **UEX** (uexcorp.space). Bandes de l'Aaron Halo : **CaptSheppard**.
 - Composants libres : voir `LICENCES-TIERS.txt` dans le téléchargement.
 
 Star Citizen est une marque de Cloud Imperium Rights LLC. SC Companion est un outil de fan non officiel, sans lien avec Cloud Imperium Games ni Roberts Space Industries. Tous droits réservés — voir [LICENCE.txt](LICENCE.txt).

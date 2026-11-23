@@ -52,7 +52,7 @@ The full guide is inside the app: **?** button or **F1**. The app starts in Engl
 - [Licence](LICENCE.txt): free for personal use, all rights reserved.
 - Support the project: ☕ https://buymeacoffee.com/viperhill
 
-Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by CaptSheppard, mission titles from MrKraken's StarStrings mod, power management logic from erkul.games.
+Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by CaptSheppard.
 
 ---
 
