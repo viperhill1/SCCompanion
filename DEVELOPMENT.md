@@ -1,6 +1,6 @@
 # SC Companion — overview
 
-> **Coded and maintained by Viperhill** · version **0.57** · Windows · English / français
+> **Coded and maintained by Viperhill** · version **0.58** · Windows · English / français
 > Support the project: https://buymeacoffee.com/viperhill
 > *[Version française](DEVELOPPEMENT.md)*
 
@@ -61,6 +61,7 @@ SC Companion helps you **craft in Star Citizen**. Everything starts from a simpl
 | 0.54 – 0.55 | App icon, public release. |
 | 0.56 | Blueprint import with the game in French, "My refining" view, English by default, new version notice. |
 | 0.57 | Live signature scanner with an overlay on top of the game. |
+| 0.58 | Check for updates from Settings, quality presets MIN / 500 / 700 / 900 / MAX, funding goal. |
 
 ## Credits
 
