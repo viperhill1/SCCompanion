@@ -11,6 +11,16 @@ Coded and maintained by **Viperhill**.
 
 ---
 
+### ✨ New in v0.59
+Crafting filters · mining ship cards and a rock simulator · salvage tools with shareable measurements and an operation calculator · weapon alpha, penetration and armor check · near-instant start-up.
+
+<p align="center">
+  <img src="docs/screen-crafting.png" width="49%" alt="Crafting filters">
+  <img src="docs/screen-mining.png" width="49%" alt="Mining card (MOLE)">
+  <img src="docs/screen-weapons.png" width="49%" alt="Weapons vs armor">
+  <img src="docs/screen-salvage.png" width="49%" alt="Salvage calculator">
+</p>
+
 ## What it does
 
 - **Crafting**: pick a blueprint, set your target qualities, and the app tells you exactly which materials you are missing, and which missions give that blueprint.
@@ -66,6 +76,9 @@ Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by Capt
 **Une app compagnon pour Star Citizen, centrée sur le crafting.** Windows · gratuit · codée et entretenue par **Viperhill**.
 
 👉 **[Télécharger la dernière version](https://github.com/viperhill1/SCCompanion/releases/latest)**
+
+### ✨ Nouveau dans la v0.59
+Filtres du crafting · fiches des vaisseaux de minage et simulateur de roche · outils de récupération avec mesures à partager et calculateur d'opération · alpha, pénétration et test du blindage des armes · ouverture presque instantanée.
 
 ### Ce qu'elle fait
 
