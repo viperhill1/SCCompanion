@@ -16,7 +16,8 @@ Coded and maintained by **Viperhill**.
 - **Crafting**: pick a blueprint, set your target qualities, and the app tells you exactly which materials you are missing, and which missions give that blueprint.
 - **Craft queue**: your projects grouped by ship or setup, with the shopping list of materials.
 - **Mining route**: the fewest stops to get what you are missing, with the real chance of finding each ore and the signatures to look for on the scanner.
-- **Ships**: a configurator (components, crafting qualities, pip-based power management, sustained DPS, shields, signatures, quantum range). Send your setup to crafting in one click.
+- **Ships**: a configurator (components, crafting qualities, pip-based power management, sustained DPS, shields, signatures, quantum range). Weapons with alpha, penetration and armor check against a target ship. Send your setup to crafting in one click.
+- **Mining and salvage ships**: heads and modules with their stats, a rock simulator, salvage measurements you can share with the community, and an operation calculator (RMC and aUEC per hour).
 - **Cart**: what can't be crafted, and where to buy it (UEX community prices, route, total).
 - **Inventory and refining**: by hand or from screenshots of the freight manager and the refinery. Your owned blueprints are ticked automatically while you play.
 - **Live signature scanner**: the app reads the number shown by the mining scanner and tells you which rock it is ("7 080 → 2 × Beryl"), in the app or in an overlay on top of the game. Rocks with an ore you need are marked ★. Game in Borderless mode.
@@ -71,7 +72,8 @@ Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by Capt
 - **Crafting** : choisis un plan, règle les qualités visées, et l'app te dit exactement quels matériaux il te manque, et quelles missions donnent ce plan.
 - **File de craft** : tes projets groupés par vaisseau ou par setup, avec la liste de courses des matériaux.
 - **Route de minage** : le moins d'arrêts possible pour aller chercher ce qui manque, avec la vraie chance de trouver chaque minerai et les signatures à repérer au scanner.
-- **Vaisseaux** : un configurateur (composants, qualités de fabrication, gestion d'énergie par pastilles, DPS soutenu, bouclier, signatures, portée quantique). Envoie ton setup au crafting en un clic.
+- **Vaisseaux** : un configurateur (composants, qualités de fabrication, gestion d'énergie par pastilles, DPS soutenu, bouclier, signatures, portée quantique). Armes avec alpha, pénétration et test du blindage d'un vaisseau cible. Envoie ton setup au crafting en un clic.
+- **Vaisseaux de minage et de récupération** : têtes et modules avec leurs stats, un simulateur de roche, des mesures de récupération à partager avec la communauté, et un calculateur d'opération (RMC et aUEC à l'heure).
 - **Panier** : ce qui ne se fabrique pas, et où l'acheter (prix de la communauté UEX, itinéraire, total).
 - **Inventaire et raffinage** : à la main ou par captures d'écran du gestionnaire de fret et de la raffinerie. Tes plans possédés sont cochés tout seuls pendant que tu joues.
 - **Scanner de signatures en direct** : l'app lit le nombre affiché par le scanner de minage et te dit quelle roche c'est (« 7 080 → 2 × Beryl »), dans l'app ou dans un overlay au-dessus du jeu. Les roches qui contiennent un minerai dont tu as besoin sont marquées ★. Jeu en mode Borderless.
