@@ -1,6 +1,6 @@
-# SC Companion — overview
+# Versecraft — overview
 
-> **Coded and maintained by Viperhill** · version **0.59** · Windows · English / français
+> **Coded and maintained by Viperhill** · version **0.60** · Windows · English / français
 > Support the project: https://buymeacoffee.com/viperhill
 > *[Version française](DEVELOPPEMENT.md)*
 
@@ -8,7 +8,7 @@
 
 ## What it is
 
-SC Companion helps you **craft in Star Citizen**. Everything starts from a simple question: *what do I want to craft, and what am I missing?* The app answers with the materials you need, where to mine them, where to buy what can't be crafted, and a ship configurator that sends a complete setup to crafting.
+Versecraft helps you **craft in Star Citizen**. Everything starts from a simple question: *what do I want to craft, and what am I missing?* The app answers with the materials you need, where to mine them, where to buy what can't be crafted, and a ship configurator that sends a complete setup to crafting.
 
 - **Always up to date**: the data comes from your installed game, so the app follows every patch.
 - **Safe**: the game is never modified.
@@ -64,6 +64,7 @@ SC Companion helps you **craft in Star Citizen**. Everything starts from a simpl
 | 0.54 – 0.55 | App icon, public release. |
 | 0.56 | Blueprint import with the game in French, "My refining" view, English by default, new version notice. |
 | 0.57 | Live signature scanner with an overlay on top of the game. |
+| 0.60 | New name: Versecraft (formerly SC Companion). |
 | 0.59 | Crafting filters, mission details, mining and salvage cards, rock simulator, salvage measurements and calculator, weapon alpha / penetration / armor, faster start-up. |
 | 0.58 | Check for updates from Settings, quality presets MIN / 500 / 700 / 900 / MAX, funding goal. |
 
@@ -74,4 +75,4 @@ SC Companion helps you **craft in Star Citizen**. Everything starts from a simpl
 - Prices: **UEX** community (uexcorp.space). Aaron Halo bands: **CaptSheppard**.
 - Open-source components: see `LICENCES-TIERS.txt` in the download.
 
-Star Citizen is a trademark of Cloud Imperium Rights LLC. SC Companion is an unofficial fan tool, not affiliated with Cloud Imperium Games or Roberts Space Industries. All rights reserved — see [LICENCE.txt](LICENCE.txt).
+Star Citizen is a trademark of Cloud Imperium Rights LLC. Versecraft is an unofficial fan tool, not affiliated with Cloud Imperium Games or Roberts Space Industries. All rights reserved — see [LICENCE.txt](LICENCE.txt).

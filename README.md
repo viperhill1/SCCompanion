@@ -1,11 +1,11 @@
-<p align="center"><img src="docs/icon.png" width="128" alt="SC Companion"></p>
+<p align="center"><img src="docs/icon.png" width="128" alt="Versecraft"></p>
 
-# SC Companion
+# Versecraft
 
 **A Star Citizen companion app, focused on crafting.** Windows · English / français · free
-Coded and maintained by **Viperhill**.
+Coded and maintained by **Viperhill**. *Formerly SC Companion.*
 
-👉 **[Download the latest version](https://github.com/viperhill1/SCCompanion/releases/latest)**
+👉 **[Download the latest version](../../releases/latest)**
 
 *[Version française plus bas](#français)*
 
@@ -36,9 +36,9 @@ The data is read **straight from your installed game files**: the app is up to d
 
 ## Install
 
-1. Download `SCCompanion-vX.XX.zip` from [Releases](https://github.com/viperhill1/SCCompanion/releases).
+1. Download `Versecraft-vX.XX.zip` from [Releases](../../releases).
 2. "Extract all" wherever you like (Desktop, `C:\Games`…). Avoid `Program Files`: the app keeps your data next to it, in `data`.
-3. Run `SCCompanion.exe`, then click **UPDATE** at the top right. Do it again after every game patch.
+3. Run `Versecraft.exe`, then click **UPDATE** at the top right. Do it again after every game patch.
 
 Windows may show a SmartScreen warning the first time (the exe is not signed yet): "More info" → "Run anyway".
 
@@ -47,10 +47,10 @@ The full guide is inside the app: **?** button or **F1**. The app starts in Engl
 ## Updating
 
 **New version of the app** — the app tells you when one is out.
-1. Download the new `SCCompanion-vX.XX.zip` from [Releases](https://github.com/viperhill1/SCCompanion/releases) and "Extract all" to a temporary folder.
-2. Close SC Companion.
-3. Copy all the extracted files into your current SCCompanion folder and choose "Replace the files in the destination".
-4. Run `SCCompanion.exe`: the new version shows at the top left.
+1. Download the new `Versecraft-vX.XX.zip` from [Releases](../../releases) and "Extract all" to a temporary folder.
+2. Close Versecraft.
+3. Copy all the extracted files into your current app folder and choose "Replace the files in the destination".
+4. Run `Versecraft.exe`: the new version shows at the top left. Coming from SC Companion (the old name)? Delete the old `SCCompanion.exe`: your data is kept.
 5. Click **UPDATE** once.
 
 ⚠️ Never delete the `data` folder: it holds your inventory, queue, blueprints, hangar and settings (language, folders). The zip doesn't contain one, so it is never overwritten. To be safe, you can copy it first.
@@ -65,7 +65,7 @@ The full guide is inside the app: **?** button or **F1**. The app starts in Engl
 
 ### 🎯 Funding goal
 
-**Goal 1 — Sign the app (US$10 / month).** A code signing certificate removes the "Windows protected your PC" warning when you download and run SC Companion. Every coffee goes straight to it. Thank you!
+**Goal 1 — Sign the app (US$10 / month).** A code signing certificate removes the "Windows protected your PC" warning when you download and run Versecraft. Every coffee goes straight to it. Thank you!
 
 Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by CaptSheppard.
 
@@ -73,9 +73,9 @@ Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by Capt
 
 ## Français
 
-**Une app compagnon pour Star Citizen, centrée sur le crafting.** Windows · gratuit · codée et entretenue par **Viperhill**.
+**Une app compagnon pour Star Citizen, centrée sur le crafting.** Windows · gratuit · codée et entretenue par **Viperhill**. *Anciennement SC Companion.*
 
-👉 **[Télécharger la dernière version](https://github.com/viperhill1/SCCompanion/releases/latest)**
+👉 **[Télécharger la dernière version](../../releases/latest)**
 
 ### ✨ Nouveau dans la v0.59
 Filtres du crafting · fiches des vaisseaux de minage et simulateur de roche · outils de récupération avec mesures à partager et calculateur d'opération · alpha, pénétration et test du blindage des armes · ouverture presque instantanée.
@@ -95,9 +95,9 @@ Les données sont lues **directement dans les fichiers du jeu installé** : l'ap
 
 ### Installer
 
-1. Télécharge `SCCompanion-vX.XX.zip` dans les [Releases](https://github.com/viperhill1/SCCompanion/releases).
+1. Télécharge `Versecraft-vX.XX.zip` dans les [Releases](../../releases).
 2. Fais « Extraire tout » où tu veux (Bureau, `C:\Jeux`…). Évite `Program Files` : l'app garde tes données à côté d'elle, dans `data`.
-3. Lance `SCCompanion.exe`, puis clique **UPDATE** (**METTRE À JOUR** en français) en haut à droite. Refais-le après chaque patch du jeu.
+3. Lance `Versecraft.exe`, puis clique **UPDATE** (**METTRE À JOUR** en français) en haut à droite. Refais-le après chaque patch du jeu.
 
 Windows peut afficher un avertissement SmartScreen au premier lancement (l'exe n'est pas encore signé) : « Informations complémentaires » → « Exécuter quand même ».
 
@@ -106,10 +106,10 @@ L'app démarre en anglais : passe-la en français avec le bouton **⚙**. Le gui
 ### Mettre à jour
 
 **Nouvelle version de l'app** — l'app t'avertit quand il y en a une.
-1. Télécharge le nouveau `SCCompanion-vX.XX.zip` dans les [Releases](https://github.com/viperhill1/SCCompanion/releases) et fais « Extraire tout » dans un dossier temporaire.
-2. Ferme SC Companion.
-3. Copie tous les fichiers extraits dans ton dossier SCCompanion actuel et choisis « Remplacer les fichiers dans la destination ».
-4. Lance `SCCompanion.exe` : la nouvelle version s'affiche en haut à gauche.
+1. Télécharge le nouveau `Versecraft-vX.XX.zip` dans les [Releases](../../releases) et fais « Extraire tout » dans un dossier temporaire.
+2. Ferme Versecraft.
+3. Copie tous les fichiers extraits dans ton dossier actuel de l'app et choisis « Remplacer les fichiers dans la destination ».
+4. Lance `Versecraft.exe` : la nouvelle version s'affiche en haut à gauche. Tu viens de SC Companion (l'ancien nom) ? Supprime l'ancien `SCCompanion.exe` : tes données sont gardées.
 5. Clique **METTRE À JOUR** une fois.
 
 ⚠️ Ne supprime jamais le dossier `data` : il contient ton inventaire, ta file, tes plans, ton hangar et tes réglages (langue, dossiers). Le zip n'en contient pas, il n'est donc jamais écrasé. Par prudence, tu peux en faire une copie avant.
@@ -122,8 +122,8 @@ L'app démarre en anglais : passe-la en français avec le bouton **⚙**. Le gui
 - [Licence](LICENCE.txt) : gratuit pour un usage personnel, tous droits réservés.
 - Soutenir le projet : ☕ https://buymeacoffee.com/viperhill
 
-**🎯 Objectif 1 — Signer l'app (10 $ US / mois).** Un certificat de signature de code enlève l'avertissement « Windows a protégé votre ordinateur » quand tu télécharges et lances SC Companion. Chaque café va directement là. Merci !
+**🎯 Objectif 1 — Signer l'app (10 $ US / mois).** Un certificat de signature de code enlève l'avertissement « Windows a protégé votre ordinateur » quand tu télécharges et lances Versecraft. Chaque café va directement là. Merci !
 
 ---
 
-*Star Citizen is a trademark of Cloud Imperium Rights LLC. SC Companion is an unofficial fan tool, not affiliated with Cloud Imperium Games. · Star Citizen est une marque de Cloud Imperium Rights LLC. SC Companion est un outil de fan non officiel, sans lien avec Cloud Imperium Games.*
+*Star Citizen is a trademark of Cloud Imperium Rights LLC. Versecraft is an unofficial fan tool, not affiliated with Cloud Imperium Games. · Star Citizen est une marque de Cloud Imperium Rights LLC. Versecraft est un outil de fan non officiel, sans lien avec Cloud Imperium Games.*

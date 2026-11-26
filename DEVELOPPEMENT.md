@@ -1,6 +1,6 @@
-# SC Companion — présentation
+# Versecraft — présentation
 
-> **Codé et entretenu par Viperhill** · version **0.59** · Windows · English / français
+> **Codé et entretenu par Viperhill** · version **0.60** · Windows · English / français
 > Soutenir le projet : https://buymeacoffee.com/viperhill
 > *Version française. Le document de référence est en anglais : [DEVELOPMENT.md](DEVELOPMENT.md)*
 
@@ -8,7 +8,7 @@
 
 ## Ce que c'est
 
-SC Companion t'aide à **fabriquer (crafting) dans Star Citizen**. Tout part d'une question simple : *qu'est-ce que je veux fabriquer, et qu'est-ce qu'il me manque ?* L'app te donne les matériaux nécessaires, où les miner, où acheter ce qui ne se fabrique pas, et un configurateur de vaisseau qui envoie un setup complet au crafting.
+Versecraft t'aide à **fabriquer (crafting) dans Star Citizen**. Tout part d'une question simple : *qu'est-ce que je veux fabriquer, et qu'est-ce qu'il me manque ?* L'app te donne les matériaux nécessaires, où les miner, où acheter ce qui ne se fabrique pas, et un configurateur de vaisseau qui envoie un setup complet au crafting.
 
 - **Toujours à jour** : les données viennent de ton jeu installé, donc l'app suit chaque patch.
 - **Sûre** : le jeu n'est jamais modifié.
@@ -64,6 +64,7 @@ SC Companion t'aide à **fabriquer (crafting) dans Star Citizen**. Tout part d'u
 | 0.54 – 0.55 | Icône de l'app, version publique. |
 | 0.56 | Import des plans avec le jeu en français, vue « Mes raffinages », anglais par défaut, avis de nouvelle version. |
 | 0.57 | Scanner de signatures en direct avec overlay au-dessus du jeu. |
+| 0.60 | Nouveau nom : Versecraft (anciennement SC Companion). |
 | 0.59 | Filtres du crafting, détails des missions, fiches minage et récupération, simulateur de roche, mesures et calculateur de récupération, alpha / pénétration / blindage des armes, ouverture plus rapide. |
 | 0.58 | Vérifier les mises à jour dans les Réglages, préréglages de qualité MIN / 500 / 700 / 900 / MAX, objectif de financement. |
 
@@ -74,4 +75,4 @@ SC Companion t'aide à **fabriquer (crafting) dans Star Citizen**. Tout part d'u
 - Prix : communauté **UEX** (uexcorp.space). Bandes de l'Aaron Halo : **CaptSheppard**.
 - Composants libres : voir `LICENCES-TIERS.txt` dans le téléchargement.
 
-Star Citizen est une marque de Cloud Imperium Rights LLC. SC Companion est un outil de fan non officiel, sans lien avec Cloud Imperium Games ni Roberts Space Industries. Tous droits réservés — voir [LICENCE.txt](LICENCE.txt).
+Star Citizen est une marque de Cloud Imperium Rights LLC. Versecraft est un outil de fan non officiel, sans lien avec Cloud Imperium Games ni Roberts Space Industries. Tous droits réservés — voir [LICENCE.txt](LICENCE.txt).
