@@ -11,8 +11,10 @@ Coded and maintained by **Viperhill**. *Formerly SC Companion.*
 
 ---
 
-### ✨ New in v0.59
-Crafting filters · mining ship cards and a rock simulator · salvage tools with shareable measurements and an operation calculator · weapon alpha, penetration and armor check · near-instant start-up.
+### ✨ New in v0.60
+**SC Companion is now Versecraft.** Remove (unequip) a ship component in the configurator · blueprint sync no longer freezes with large game logs.
+
+**v0.59:** crafting filters · mining ship cards and a rock simulator · salvage tools with shareable measurements and an operation calculator · weapon alpha, penetration and armor check · near-instant start-up.
 
 <p align="center">
   <img src="docs/screen-crafting.png" width="49%" alt="Crafting filters">
@@ -77,8 +79,10 @@ Credits: [UEX](https://uexcorp.space) community prices, Aaron Halo bands by Capt
 
 👉 **[Télécharger la dernière version](../../releases/latest)**
 
-### ✨ Nouveau dans la v0.59
-Filtres du crafting · fiches des vaisseaux de minage et simulateur de roche · outils de récupération avec mesures à partager et calculateur d'opération · alpha, pénétration et test du blindage des armes · ouverture presque instantanée.
+### ✨ Nouveau dans la v0.60
+**SC Companion s'appelle maintenant Versecraft.** Retirer (déséquiper) un composant dans le configurateur · la synchro des plans ne fige plus avec de gros journaux du jeu.
+
+**v0.59 :** filtres du crafting · fiches des vaisseaux de minage et simulateur de roche · outils de récupération avec mesures à partager et calculateur d'opération · alpha, pénétration et test du blindage des armes · ouverture presque instantanée.
 
 ### Ce qu'elle fait
 
