@@ -64,7 +64,7 @@ Versecraft helps you **craft in Star Citizen**. Everything starts from a simple 
 | 0.54 – 0.55 | App icon, public release. |
 | 0.56 | Blueprint import with the game in French, "My refining" view, English by default, new version notice. |
 | 0.57 | Live signature scanner with an overlay on top of the game. |
-| 0.60 | New name: Versecraft (formerly SC Companion). |
+| 0.60 | New name: Versecraft (formerly SC Companion). Remove (unequip) a ship component. Blueprint sync reads large game logs without freezing. |
 | 0.59 | Crafting filters, mission details, mining and salvage cards, rock simulator, salvage measurements and calculator, weapon alpha / penetration / armor, faster start-up. |
 | 0.58 | Check for updates from Settings, quality presets MIN / 500 / 700 / 900 / MAX, funding goal. |
 

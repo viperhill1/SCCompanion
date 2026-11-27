@@ -64,7 +64,7 @@ Versecraft t'aide à **fabriquer (crafting) dans Star Citizen**. Tout part d'une
 | 0.54 – 0.55 | Icône de l'app, version publique. |
 | 0.56 | Import des plans avec le jeu en français, vue « Mes raffinages », anglais par défaut, avis de nouvelle version. |
 | 0.57 | Scanner de signatures en direct avec overlay au-dessus du jeu. |
-| 0.60 | Nouveau nom : Versecraft (anciennement SC Companion). |
+| 0.60 | Nouveau nom : Versecraft (anciennement SC Companion). Retirer (déséquiper) un composant de vaisseau. La synchro des plans lit les gros journaux du jeu sans figer. |
 | 0.59 | Filtres du crafting, détails des missions, fiches minage et récupération, simulateur de roche, mesures et calculateur de récupération, alpha / pénétration / blindage des armes, ouverture plus rapide. |
 | 0.58 | Vérifier les mises à jour dans les Réglages, préréglages de qualité MIN / 500 / 700 / 900 / MAX, objectif de financement. |
 
